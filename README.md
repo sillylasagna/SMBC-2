@@ -1,3 +1,3 @@
 # SMBC 2
  
-Game by Exploding Rabbit
+The Classic Flash Game by Exploding Rabbit opened using Adobe AIR from The Henry Stickmin Collection's Files
